@@ -1,0 +1,9 @@
+[submodule "modules/godot_voxel_blokletix"]
+	path = modules/voxel
+	url = https://github.com/lpjohannesson/godot_voxel_blokletix
+[submodule "modules/texture_packer"]
+	path = modules/texture_packer
+	url = https://github.com/Relintai/texture_packer
+[submodule "modules/godot_gyro_manager"]
+	path = modules/gyro_manager
+	url = https://github.com/lpjohannesson/godot_gyro_manager
